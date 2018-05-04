@@ -1,0 +1,2 @@
+# face_detect_from_scratch
+Designed this as a proof-of-concept out of interest from a discussion in my Linear Algebra class on computer vision.  This python script aims to grab all the photos in a folder and create a "face space" (the eigenspace of the entire pixel set).  It runs through several steps including finding the average vector space, the covariance matrix of the difference matrix, and more.
